@@ -6,6 +6,6 @@ Requirements:
 * [Scrapy](https://scrapy.org/)
 
 
-cd to scrapy.cfg folder, then run in terminal:
+cd to scrapy.cfg's folder, then run in terminal:
 ==============================
          scrapy crawl requests_chaining -o requests_chaining.json
